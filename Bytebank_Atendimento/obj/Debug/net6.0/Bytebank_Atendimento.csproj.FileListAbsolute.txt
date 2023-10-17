@@ -1,0 +1,14 @@
+C:\Users\alexsander.santos\Pictures\Alura\Bytebank_Atendimento\obj\Debug\net6.0\Bytebank_Atendimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexsander.santos\Pictures\Alura\Bytebank_Atendimento\obj\Debug\net6.0\Bytebank_Atendimento.AssemblyInfoInputs.cache
+C:\Users\alexsander.santos\Pictures\Alura\Bytebank_Atendimento\obj\Debug\net6.0\Bytebank_Atendimento.AssemblyInfo.cs
+C:\Users\alexsander.santos\Pictures\Alura\Bytebank_Atendimento\obj\Debug\net6.0\Bytebank_Atendimento.csproj.CoreCompileInputs.cache
+C:\Users\alexsander.santos\Pictures\Alura\Bytebank_Atendimento\bin\Debug\net6.0\Bytebank_Atendimento.exe
+C:\Users\alexsander.santos\Pictures\Alura\Bytebank_Atendimento\bin\Debug\net6.0\Bytebank_Atendimento.deps.json
+C:\Users\alexsander.santos\Pictures\Alura\Bytebank_Atendimento\bin\Debug\net6.0\Bytebank_Atendimento.runtimeconfig.json
+C:\Users\alexsander.santos\Pictures\Alura\Bytebank_Atendimento\bin\Debug\net6.0\Bytebank_Atendimento.dll
+C:\Users\alexsander.santos\Pictures\Alura\Bytebank_Atendimento\bin\Debug\net6.0\Bytebank_Atendimento.pdb
+C:\Users\alexsander.santos\Pictures\Alura\Bytebank_Atendimento\obj\Debug\net6.0\Bytebank_Atendimento.dll
+C:\Users\alexsander.santos\Pictures\Alura\Bytebank_Atendimento\obj\Debug\net6.0\refint\Bytebank_Atendimento.dll
+C:\Users\alexsander.santos\Pictures\Alura\Bytebank_Atendimento\obj\Debug\net6.0\Bytebank_Atendimento.pdb
+C:\Users\alexsander.santos\Pictures\Alura\Bytebank_Atendimento\obj\Debug\net6.0\Bytebank_Atendimento.genruntimeconfig.cache
+C:\Users\alexsander.santos\Pictures\Alura\Bytebank_Atendimento\obj\Debug\net6.0\ref\Bytebank_Atendimento.dll
