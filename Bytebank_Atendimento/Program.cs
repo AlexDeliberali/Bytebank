@@ -15,11 +15,16 @@ void TestaArrayDeContasCorrentes()
 
     var contaDoAndre = new ContaCorrente(963, "123456-X");
     listaDeContas.Adicionar(contaDoAndre);
-    listaDeContas.ExibeLista();
-    Console.WriteLine("Agora irá remover a conta!");
-    listaDeContas.Remover(contaDoAndre);
-    listaDeContas.ExibeLista();
-    Console.WriteLine("Conta removida!");
+    //listaDeContas.ExibeLista();
+    //Console.WriteLine("Agora irá remover a conta!");
+    //listaDeContas.Remover(contaDoAndre);
+    //listaDeContas.ExibeLista();
+    //Console.WriteLine("Conta removida!");
+
+    for (int i =0; i < listaDeContas.Tamanho; i++) {
+        ContaCorrente conta = listaDeContas[i];
+        Console.WriteLine($"Indíce[{i}] = Conta/Agência: {conta.Conta}/{conta.Numero_agencia}");
+    }
 }
 
 TestaArrayDeContasCorrentes();

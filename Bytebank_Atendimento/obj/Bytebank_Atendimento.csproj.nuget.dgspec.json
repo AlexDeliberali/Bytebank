@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexsander.santos\\Pictures\\Alura\\Bytebank_Atendimento\\Bytebank_Atendimento.csproj": {}
+    "C:\\Users\\alexsander.santos\\Pictures\\Alura\\Bytebank\\Bytebank_Atendimento\\Bytebank_Atendimento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexsander.santos\\Pictures\\Alura\\Bytebank_Atendimento\\Bytebank_Atendimento.csproj": {
+    "C:\\Users\\alexsander.santos\\Pictures\\Alura\\Bytebank\\Bytebank_Atendimento\\Bytebank_Atendimento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexsander.santos\\Pictures\\Alura\\Bytebank_Atendimento\\Bytebank_Atendimento.csproj",
+        "projectUniqueName": "C:\\Users\\alexsander.santos\\Pictures\\Alura\\Bytebank\\Bytebank_Atendimento\\Bytebank_Atendimento.csproj",
         "projectName": "Bytebank_Atendimento",
-        "projectPath": "C:\\Users\\alexsander.santos\\Pictures\\Alura\\Bytebank_Atendimento\\Bytebank_Atendimento.csproj",
+        "projectPath": "C:\\Users\\alexsander.santos\\Pictures\\Alura\\Bytebank\\Bytebank_Atendimento\\Bytebank_Atendimento.csproj",
         "packagesPath": "C:\\Users\\alexsander.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexsander.santos\\Pictures\\Alura\\Bytebank_Atendimento\\obj\\",
+        "outputPath": "C:\\Users\\alexsander.santos\\Pictures\\Alura\\Bytebank\\Bytebank_Atendimento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
